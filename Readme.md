@@ -1,2 +1,2 @@
-Simple project for study makefiles
+Mochalin Anton 22PT1
 ==================================
